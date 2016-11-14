@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ToastLibrary</string>
+    <string name="welcome_to_news_inter">Welcome To News Inter</string>
+    <string name="shut_down">shut down</string>
+</resources>
